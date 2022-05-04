@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alcool Ou Gasolina</string>
+    <string name="logo_description">Logo do aplicativo Alcool ou Gasolina</string>
+    <string name="text_presentation">Conheça a melhor opção para abastecer seu carro!</string>
+    <string name="textHint_ethanol">Preço do Etanol (ex: 5.90)</string>
+    <string name="textHint_gasoline">Preço da Gasolina (ex: 7.90)</string>
+    <string name="text_buttonSubmit">CALCULAR</string>
+    <string name="text_buttonClear">LIMPAR</string>
+</resources>
